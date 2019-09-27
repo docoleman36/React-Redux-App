@@ -1,0 +1,14 @@
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: baseline;
+}
+
+img{
+  margin-left: 60px;
+}
+
+.card{
+  margin: 30px;
+}
